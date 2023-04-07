@@ -8,7 +8,7 @@
 
 ![SAM design](assets/model_diagram.png?raw=true)
 
-The **Segment Anything Model (SAM)** produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. It has been trained on a [dataset](https://segment-anything.com/dataset/index.html) of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
+O **Segment Anything Model (SAM**) produz máscaras de objeto de alta qualidade a partir de prompts de entrada, como pontos ou caixas, e pode ser usado para gerar máscaras para todos os objetos em uma imagem. Foi treinado em um [dataset](https://segment-anything.com/dataset/index.html) de 11 milhões de imagens e 1,1 bilhão de máscaras, e tem forte desempenho zero-shot em uma variedade de tarefas de segmentação.
 
 <p float="left">
   <img src="assets/masks1.png?raw=true" width="37.25%" />
